@@ -15,17 +15,6 @@ find_package(catkin REQUIRED COMPONENTS
   cv_bridge
 )
 
-add_message_files(
-  FILES
-  HandSign.msg
-)
-
-## Generate services in the 'srv' folder
-add_service_files(
-  FILES
-  SetModel.srv
-)
-
 generate_messages(
   DEPENDENCIES
   std_msgs
