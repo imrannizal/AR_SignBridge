@@ -1,3 +1,3 @@
-# AR_SignBridge
+# AR_SignLanguage
 
 Group 10
