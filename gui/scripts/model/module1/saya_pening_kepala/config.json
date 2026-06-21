@@ -1,0 +1,9 @@
+{
+  "name": "saya_pening_kepala",
+  "display": "Saya Pening Kepala",
+  "classes": [
+    "saya",
+    "sakit kepala"
+  ],
+  "description": "Practice: saya -> sakit kepala"
+}

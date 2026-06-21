@@ -1,0 +1,9 @@
+{
+  "name": "pergi_hospital",
+  "display": "Pergi Hospital",
+  "classes": [
+    "pergi",
+    "hospital"
+  ],
+  "description": "Practice: pergi -> hospital"
+}

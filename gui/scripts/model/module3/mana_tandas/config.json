@@ -1,0 +1,9 @@
+{
+  "name": "mana_tandas",
+  "display": "Mana Tandas",
+  "classes": [
+    "mana",
+    "tandas"
+  ],
+  "description": "Practice: mana -> tandas"
+}

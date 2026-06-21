@@ -1,0 +1,9 @@
+{
+  "name": "mari_solat",
+  "display": "Mari Solat",
+  "classes": [
+    "mari",
+    "solat"
+  ],
+  "description": "Practice: mari -> solat"
+}

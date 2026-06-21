@@ -1,0 +1,23 @@
+{
+  "sentence_name": "mari_solat",
+  "labels": [
+    "neutral",
+    "mari",
+    "solat"
+  ],
+  "num_classes": 3,
+  "classes": [
+    "mari",
+    "neutral",
+    "solat"
+  ],
+  "split_method": "sequence-based + augmentation",
+  "original_train_sequences": 92,
+  "augmented_train_sequences": 276,
+  "val_sequences": 28,
+  "augmentation_factor": 3,
+  "train_accuracy": 1.0,
+  "val_accuracy": 1.0,
+  "overfitting_gap": 0.0,
+  "leakage_free": true
+}

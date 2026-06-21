@@ -1,0 +1,8 @@
+<launch>
+    <node name="camera" pkg="camera" type="camera_node.py" output="screen"/>
+    <node name="handsign_detector" pkg="handsign_detector" type="handsign_detector_node.py" output="screen"/>
+    <node name="handsign_gui" pkg="gui" type="gui_node.py" output="screen"/>
+    <node name="tts" pkg="tts" type="tts_node.py" output="screen"/>
+    <node name="stt" pkg="stt" type="stt_node.py" output="screen"/>
+    <node name="llm" pkg="llm" type="llm_node.py" output="screen"/>
+</launch>

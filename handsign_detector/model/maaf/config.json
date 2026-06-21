@@ -1,0 +1,31 @@
+{
+  "sentence_name": "module2",
+  "labels": [
+    "apa khabar",
+    "assalamualaikum",
+    "waalaikumussalam",
+    "maaf",
+    "sama-sama",
+    "selamat datang",
+    "terima kasih"
+  ],
+  "num_classes": 7,
+  "classes": [
+    "apa khabar",
+    "assalamualaikum",
+    "maaf",
+    "sama-sama",
+    "selamat datang",
+    "terima kasih",
+    "waalaikumussalam"
+  ],
+  "split_method": "sequence-based + augmentation",
+  "original_train_sequences": 161,
+  "augmented_train_sequences": 483,
+  "val_sequences": 49,
+  "augmentation_factor": 3,
+  "train_accuracy": 1.0,
+  "val_accuracy": 1.0,
+  "overfitting_gap": 0.0,
+  "leakage_free": true
+}

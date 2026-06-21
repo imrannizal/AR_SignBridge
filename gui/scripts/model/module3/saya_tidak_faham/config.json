@@ -1,0 +1,10 @@
+{
+  "name": "saya_tidak_faham",
+  "display": "Saya Tidak Faham",
+  "classes": [
+    "saya",
+    "tidak",
+    "faham"
+  ],
+  "description": "Practice: saya -> tidak -> faham"
+}

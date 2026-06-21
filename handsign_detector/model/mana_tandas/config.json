@@ -1,0 +1,23 @@
+{
+  "sentence_name": "mana_tandas",
+  "labels": [
+    "neutral",
+    "mana",
+    "tandas"
+  ],
+  "num_classes": 3,
+  "classes": [
+    "mana",
+    "neutral",
+    "tandas"
+  ],
+  "split_method": "sequence-based + augmentation",
+  "original_train_sequences": 207,
+  "augmented_train_sequences": 621,
+  "val_sequences": 63,
+  "augmentation_factor": 3,
+  "train_accuracy": 1.0,
+  "val_accuracy": 1.0,
+  "overfitting_gap": 0.0,
+  "leakage_free": true
+}

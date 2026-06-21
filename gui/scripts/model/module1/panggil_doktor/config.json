@@ -1,0 +1,9 @@
+{
+  "name": "panggil_doktor",
+  "display": "Panggil Doktor",
+  "classes": [
+    "panggil",
+    "doktor"
+  ],
+  "description": "Practice: panggil -> doktor"
+}

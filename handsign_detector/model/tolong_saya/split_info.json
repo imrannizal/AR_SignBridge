@@ -1,0 +1,8 @@
+{
+  "split_method": "SEQUENCE-BASED (no frame leakage)",
+  "augmentation": "3x (noise, shift, scale, dropout)",
+  "original_train_sequences": 46,
+  "augmented_train_sequences": 138,
+  "val_sequences": 14,
+  "leakage_check": "\u2713 PASSED - No sequences shared"
+}

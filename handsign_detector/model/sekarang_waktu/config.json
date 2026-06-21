@@ -1,0 +1,23 @@
+{
+  "sentence_name": "sekarang_waktu",
+  "labels": [
+    "neutral",
+    "sekarang",
+    "waktu"
+  ],
+  "num_classes": 3,
+  "classes": [
+    "neutral",
+    "sekarang",
+    "waktu"
+  ],
+  "split_method": "sequence-based + augmentation",
+  "original_train_sequences": 69,
+  "augmented_train_sequences": 207,
+  "val_sequences": 21,
+  "augmentation_factor": 3,
+  "train_accuracy": 1.0,
+  "val_accuracy": 1.0,
+  "overfitting_gap": 0.0,
+  "leakage_free": true
+}

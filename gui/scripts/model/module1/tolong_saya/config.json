@@ -1,0 +1,9 @@
+{
+  "name": "tolong_saya",
+  "display": "Tolong Saya",
+  "classes": [
+    "tolong",
+    "saya"
+  ],
+  "description": "Practice: tolong -> saya"
+}

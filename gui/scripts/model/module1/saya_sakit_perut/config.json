@@ -1,0 +1,9 @@
+{
+  "name": "saya_sakit_perut",
+  "display": "Saya Sakit Perut",
+  "classes": [
+    "saya",
+    "sakit perut"
+  ],
+  "description": "Practice: saya -> sakit perut"
+}

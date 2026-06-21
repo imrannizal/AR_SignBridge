@@ -1,0 +1,9 @@
+{
+  "name": "sekarang_waktu",
+  "display": "Sekarang Waktu",
+  "classes": [
+    "sekarang",
+    "waktu"
+  ],
+  "description": "Practice: sekarang -> waktu"
+}

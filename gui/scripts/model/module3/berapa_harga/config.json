@@ -1,0 +1,9 @@
+{
+  "name": "berapa_harga",
+  "display": "Berapa Harga",
+  "classes": [
+    "berapa",
+    "harga"
+  ],
+  "description": "Practice: berapa -> harga"
+}
